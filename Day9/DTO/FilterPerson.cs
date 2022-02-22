@@ -1,0 +1,10 @@
+namespace Day9.DTO
+{
+    public class FilterPerson
+    {
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public string Gender { get; set; }
+        public string BirthPlace { get; set; }
+    }
+}
